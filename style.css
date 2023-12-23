@@ -1,0 +1,32 @@
+.section1 {
+  background: linear-gradient(65.99deg, #000 0, #0000 99.04%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://smd-cms.nasa.gov/wp-content/uploads/2023/06/planets3x3-pluto-colormercury-axis-tilt-nolabels-1080p.00001-print.jpg?w=4096&format=jpeg);
+  height: 120vh;
+  width: 100%;
+  color: white;
+}
+
+.heading1 {
+  padding-top: 300px;
+  font-size: 90px;
+  opacity: 100%;
+}
+
+.paragraph {
+  padding-top: 50px;
+  font-size: 20px;
+  opacity: 100%;
+}
+.paragraph2 {
+  padding-top: 50px;
+  font-size: 20px;
+  opacity: 200%;
+}
+.heading2 {
+  padding-top: 30px;
+  font-size: 70px;
+  opacity: 100px;
+  color: blue;
+}
